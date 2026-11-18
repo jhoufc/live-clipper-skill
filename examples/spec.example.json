@@ -1,0 +1,176 @@
+{
+ "_sobre": "Exemplo real: short \"A polícia do GTA 6 não esquece\" (live do JOAO_PSX, trecho 2760-2905 s, baixado com livefrag clip). Caminhos relativos a este arquivo.",
+ "saida": "../saida/policia_descricao_carro.mp4",
+ "layouts": {
+  "jo": {
+   "game": [
+    0,
+    0,
+    1440,
+    1080
+   ],
+   "face": [
+    1580,
+    780,
+    340,
+    201
+   ]
+  },
+  "jo_tip": {
+   "game": [
+    0,
+    230,
+    620,
+    465
+   ],
+   "face": [
+    1580,
+    780,
+    340,
+    201
+   ]
+  }
+ },
+ "segs": [
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 108.9,
+   "fim": 111.6,
+   "layout": "jo",
+   "credito": "JOAO_PSX",
+   "topo": "A POLÍCIA DO GTA 6\nNÃO ESQUECE VOCÊ",
+   "caps": [
+    [
+     109.0,
+     111.6,
+     "BOMBA DE TINTA!"
+    ]
+   ]
+  },
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 34.0,
+   "fim": 42.5,
+   "layout": "jo",
+   "credito": "JOAO_PSX",
+   "topo": "PRIMEIRA FUGA\nDA HISTÓRIA",
+   "caps": []
+  },
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 82.0,
+   "fim": 87.0,
+   "layout": "jo",
+   "credito": "JOAO_PSX",
+   "topo": "OLHA COMO O\nCARRO FICOU",
+   "caps": [
+    [
+     82.1,
+     84.2,
+     "O ESTADO DO CARRO, CARA"
+    ],
+    [
+     84.3,
+     87.0,
+     "O GRÁFICO É ABSURDO"
+    ]
+   ]
+  },
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 90.5,
+   "fim": 101.5,
+   "layout": "jo_tip",
+   "credito": "JOAO_PSX",
+   "topo": "AÍ O JOGO AVISA:",
+   "caps": [
+    [
+     90.7,
+     93.2,
+     "VOCÊ DESPISTOU OS POLICIAIS..."
+    ],
+    [
+     93.3,
+     95.6,
+     "MAS ELES CONTINUAM PROCURANDO"
+    ],
+    [
+     95.7,
+     97.7,
+     "E TÊM A DESCRIÇÃO DO VEÍCULO"
+    ],
+    [
+     97.8,
+     101.5,
+     "ELE TEM A DESCRIÇÃO DO VEÍCULO!"
+    ]
+   ]
+  },
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 101.5,
+   "fim": 108.9,
+   "layout": "jo",
+   "credito": "JOAO_PSX",
+   "topo": "QUALQUER COISA SUSPEITA\nCHAMA A ATENÇÃO DELES",
+   "caps": [
+    [
+     101.6,
+     105.7,
+     "OLHA O ESTADO DO CARRO, CARA"
+    ]
+   ]
+  },
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 108.9,
+   "fim": 124.9,
+   "layout": "jo",
+   "credito": "JOAO_PSX",
+   "topo": "E AÍ VEIO\nA BOMBA DE TINTA",
+   "caps": [
+    [
+     109.0,
+     111.5,
+     "BOMBA DE TINTA!"
+    ],
+    [
+     111.6,
+     114.7,
+     "TEM QUE SAIR FORA DAQUI"
+    ],
+    [
+     115.0,
+     117.4,
+     "IXA!"
+    ],
+    [
+     117.5,
+     121.0,
+     "AH, PEGOU, CARA"
+    ],
+    [
+     121.1,
+     124.9,
+     "JÁ ERA"
+    ]
+   ]
+  },
+  {
+   "src": "../brutos/joao_2760.mp4",
+   "ini": 124.9,
+   "fim": 131.0,
+   "layout": "jo",
+   "credito": "JOAO_PSX",
+   "topo": "VOCÊ IA CONSEGUIR\nFUGIR? COMENTA",
+   "caps": [
+    [
+     125.3,
+     127.4,
+     "ACHO QUE NÃO TINHA COMO FUGIR"
+    ]
+   ],
+   "rodape": "SEGUE O @GTAVIRPBRASIL"
+  }
+ ]
+}

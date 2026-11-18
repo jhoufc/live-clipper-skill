@@ -1,0 +1,15 @@
+# material de trabalho (nunca vai para o repositório: vídeos e áudios de terceiros)
+audio/
+brutos/
+quadros/
+transc/
+saida/
+storyboard/
+*.mp4
+*.m4a
+*.wav
+*.raw
+.livefrag_cache.json
+__pycache__/
+fonts/*.ttf
+fonts/*.otf

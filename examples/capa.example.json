@@ -1,0 +1,41 @@
+{
+ "saida": "../saida/policia_descricao_carro_capa.png",
+ "linhas": [
+  [
+   "A POLÍCIA",
+   "#ffffff",
+   150
+  ],
+  [
+   "NÃO ESQUECE",
+   "#FFD60A",
+   200
+  ],
+  [
+   "SEU CARRO!",
+   "#FF3EA5",
+   150
+  ]
+ ],
+ "cena": {
+  "src": "../brutos/joao_2760.mp4",
+  "t": 93.0,
+  "crop": [
+   0,
+   200,
+   1100,
+   590
+  ]
+ },
+ "rosto": {
+  "src": "../brutos/joao_2760.mp4",
+  "t": 51.6,
+  "crop": [
+   1580,
+   780,
+   340,
+   201
+  ]
+ },
+ "credito": "JOAO_PSX"
+}
